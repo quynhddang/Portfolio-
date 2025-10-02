@@ -12,4 +12,4 @@ Welcome to my Portfolio. Please check out my projects.
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-|[8-Week SQL Challenge
+|[8-Week SQL Challenges
