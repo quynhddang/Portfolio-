@@ -12,7 +12,7 @@ Welcome to my Portfolio. Please check out my projects.
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-|[8-Week SQL Challenges
+|[8-Week SQL Challenges](https://github.com/quynhddang/8-Week-SQL)|Data analysis and transformation|
 
 # R Programming
 
