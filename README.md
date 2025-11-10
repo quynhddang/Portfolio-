@@ -18,4 +18,4 @@ Welcome to my Portfolio. Please check out my projects.
 
 | Project Link | Area of Analysis | Project Description | Data Source |
 |---|---|---|---|
-| [Fitness Tracker Data](https://github.com/quynhddang/Bellabeat-CS/blob/main/README.md) | Data wrangling & EDA | | [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
+| [Fitness Tracker Data](https://github.com/quynhddang/Bellabeat-CS/blob/main/README.md) | Data wrangling & EDA | In this case study provided by the Google Data Analytics course, I analyzed smart device usage data in order to gain insight into how consumers use their device. This allows me to make recommendations that can unlock new growth opportunities for the client. | [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
